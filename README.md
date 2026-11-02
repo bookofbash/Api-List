@@ -4,4 +4,5 @@ A List of APIs and Libraries to play with
   <li> <a href="https://t.co/HKI407ZtE6">p5.js</a></li>
   <li><a href="https://developer.vimeo.com/api/start">Vimeo API</a></li>
   <li> <a href="https://developers.google.com/sheets/api/samples/reading"> Google Sheets API</a></li>
+  <li><a href="https://bucketlist.nl/brand/droom-van-de-dag.openapi.json">Bucketlist Dream of the Day</a> - Free keyless daily-experience JSON (Dutch/Netherlands default).</li>
 </ul>
